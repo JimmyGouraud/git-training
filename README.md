@@ -1,2 +1,2 @@
 # git-training
-Git Training
+Git Training ! Very useful
